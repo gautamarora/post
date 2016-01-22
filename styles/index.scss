@@ -1,0 +1,28 @@
+.main {
+  @extend .container-fluid;
+  .post {
+    @extend .col-xs-9;
+    @extend .col-md-10;
+    @extend .col-xs-offset-3;
+    @extend .col-md-offset-2;
+    top: 60px;
+    padding-left: 25px;
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    img {
+      width: 100%;
+    }
+    .button-read-more {
+      @extend .btn;
+      @extend .btn-default;
+      @extend .btn-sm;
+    }
+    .button-back {
+      @extend .btn;
+      @extend .btn-default;
+      @extend .btn-sm;
+    }
+  }
+}

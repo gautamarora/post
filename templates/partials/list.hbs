@@ -1,0 +1,16 @@
+<div class="post">
+  <div class="body">
+    {{#each post}}
+      <h3><a href="posts/{{this.id}}">{{this.title}}</a></h3>
+      <p class="small">
+        <span class="glyphicon glyphicon-time"></span>
+        Posted on {{this.date}}
+      </p>
+      <p>
+        {{{this.shortBody}}}
+      </p>
+      <a class="button-read-more" href="posts/{{this.id}}" role="button">Read More <span class="glyphicon glyphicon-chevron-right"><span></a>
+      <hr>
+    {{/each}}
+  </div>
+</div>

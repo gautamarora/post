@@ -1,0 +1,20 @@
+{
+  "1" : {
+    "id": 1,
+    "title": "A simple post",
+    "body": "This is a simple post. How about some lorem ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "date": "Jan 1, 2016"
+  },
+  "2" : {
+    "id": 2,
+    "title": "A post with markdown",
+    "date": "Jan 2, 2016",
+    "body":"This is a post to demo markdown integration. Lets use some Lorem Markdownum!\n## Ut manus et iaculo inplevit hospitium\n\n### Aut fata medullis\n\nLorem markdownum et armo sinusque memorque, tenui fretum alimentaque, nec pugnas AI. Obtulit in valens nefas tergo vasto: finibus totumque ut turba tenere. At dolor at usum iracundique obstitit oreada, et utque sanguine amor indigenas sustulit, et isto ipse cacumen. Tellus ritus idque forti nomine clamavit congelat gente seductas flumine periturus quondam canam; sed.\n\n1. Exstincto et viribus celanda\n1. Iacens ecce summo semper quoque\n1. Monet quod mandata redimicula versabat\n1. Cuncta divinante considere mea inconcessaeque visus et\n1. Est limus caedem\n\n### In regnum stabat\n\nDe sacros mediusque esse; hostem quo nympha, iubasque vario. Diu arida infans, nulla tectis, famaque praemia loquentis, ora thalamis mediaque Aiax a perspicuas huius sexangula. Mihi est amplectitur turba frustra: erat pars intendensque adsuetaque terrenae nervo cessataque et. Manet caput, vel est spectabilis, Tenedonque potuit.\nMeam ore una vestra Iliacas, silva et virgam amatam; suae aditus proxima litoream, aera. Recessit procubuit servit mali venturi Talibus arvis cornua media addidit stabat; haut quid!\n\n### Vix ille promissa\nRadios stamen et glaebas tantus hoc? Diversa ferro: copia quem nec titulos tanti, **igne** alumnus! Memnonis murmura: unus, Atrides nemo ora tellure seri violenta urguet nequiquam **accipio** illa. Vallis inde! Herbis fefellerat aut, est qua fata tanti re iurasse, inponere, quod, per.\n\nNitens labentibus quamvis perque, amnis, de [filia dextra](http://omfgdogs.com/) exstimulat? **Taedia alimentaque paulumque** errore. Teneat ut bracchia male, dixit leges celeres fatale velles. *Facinus* et illas **scintilla quamquam** sagittis perdidit nimbi, minitantem, excita, *ut alis vulnera*!\n\nFreto presso ferox suppressis tecti radiorum, est versabat inpendit, a nostro Circes vestibus radere [negaretur me](http://hipstermerkel.tumblr.com/) pariter. Miserabile foedera: titubare narrata, iram movet adurat, manu caelesti caecis fibula patrio Aeas melliferarum multa."
+  },
+  "3" : {
+    "id": 3,
+    "title": "A post with an image",
+    "body": "Here is a beautiful image...\n\n![Mosaic Glass](/post/static/image.jpg 'Mosaic Glass')",
+    "date": "Jan 3, 2016"
+  }
+}
