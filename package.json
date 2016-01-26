@@ -1,6 +1,6 @@
 {
   "name": "@gautamarora/post",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "microapp - post",
   "main": "./app/index.js",
   "browser": "./client/self/index.js",
