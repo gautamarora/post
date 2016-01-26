@@ -11,8 +11,8 @@
   "author": "Gautam Arora",
   "license": "ISC",
   "dependencies": {
-    "@gautamarora/core": "^0.0.1",
-    "@gautamarora/header": "^0.0.1",
+    "@gautamarora/core": "^0.0",
+    "@gautamarora/header": "^0.0",
     "markdown-it": "^5.1.0",
     "remove-markdown": "0.0.6",
     "xtend": "^4.0.1"
